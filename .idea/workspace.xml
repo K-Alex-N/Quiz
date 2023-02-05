@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7ebfa22-72db-4462-9be4-4ad81f7931a1" name="Changes" comment="up2">
+      <change afterPath="$PROJECT_DIR$/Not for GIT/sadas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Not for GIT/OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Not for GIT/OOP.py" afterDir="false" />
     </list>
@@ -47,25 +48,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/Quiz/users_backup&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/Quiz/Not for GIT",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\Quiz\Not for GIT" />
       <recent name="C:\Users\user\PycharmProjects\Quiz\users_backup" />
       <recent name="C:\Users\user\PycharmProjects\Quiz" />
       <recent name="C:\Users\user\PycharmProjects\Quiz\quiz" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\Quiz" />
       <recent name="C:\Users\user\PycharmProjects\Quiz\Not for GIT" />
       <recent name="C:\Users\user\PycharmProjects\Quiz\users" />
       <recent name="C:\Users\user\PycharmProjects\Quiz\users_backup" />
-      <recent name="C:\Users\user\PycharmProjects\Quiz" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
@@ -204,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675581493626</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="up2">
+      <created>1675583613755</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675583613755</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
