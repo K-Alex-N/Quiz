@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7ebfa22-72db-4462-9be4-4ad81f7931a1" name="Changes" comment="up2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Not for GIT/OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Not for GIT/OOP.py" afterDir="false" />
-    </list>
+    <list default="true" id="f7ebfa22-72db-4462-9be4-4ad81f7931a1" name="Changes" comment="up2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -240,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675586893691</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="up2">
+      <created>1675587399263</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675587399263</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
