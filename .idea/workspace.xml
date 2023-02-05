@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7ebfa22-72db-4462-9be4-4ad81f7931a1" name="Changes" comment="del">
-      <change afterPath="$PROJECT_DIR$/quiz/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users_backup/users.txt" afterDir="false" />
+    <list default="true" id="f7ebfa22-72db-4462-9be4-4ad81f7931a1" name="Changes" comment="up2">
+      <change afterPath="$PROJECT_DIR$/OOP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/users/users.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +68,7 @@
       <recent name="C:\Users\user\PycharmProjects\Quiz" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.game">
+  <component name="RunManager">
     <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quiz" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,12 +162,20 @@
       <option name="project" value="LOCAL" />
       <updated>1675531325991</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="up2">
+      <created>1675547262176</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675547262176</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="del" />
-    <option name="LAST_COMMIT_MESSAGE" value="del" />
+    <MESSAGE value="up2" />
+    <option name="LAST_COMMIT_MESSAGE" value="up2" />
   </component>
 </project>
