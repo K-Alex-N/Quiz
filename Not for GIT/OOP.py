@@ -6,6 +6,8 @@ class Line:
 class Rect:
     pass
 
+#knljlkjlj
+
 class Ellipse:
     pass
 
